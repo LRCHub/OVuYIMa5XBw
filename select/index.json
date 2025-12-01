@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "何でも言うことを聞いてくれるアカネチャン",
+  "base_artist": "GYARI(ココアシガレットP)",
+  "createdAt": "2025-12-01T02:05:38.201517Z",
+  "candidates": [
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "何でも言うことを聞いてくれるアカネチャン",
+      "artist": "GYARI(ココアシガレットP)",
+      "has_synced": false,
+      "path": "select/pl_何でも言うことを聞いてくれるアカネチャン_GYARI(ココアシガレットP).txt"
+    }
+  ]
+}
